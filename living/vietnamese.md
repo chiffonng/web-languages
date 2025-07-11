@@ -17,6 +17,10 @@ News:
 - https://nhandan.vn/
 - https://laodong.vn/
 - https://vov.vn/
+- https://vietnamnet.vn/
+- https://baotiengdan.com/
+- https://hanoimoi.vn/ (Hanoi (capital)'s news)
+- https://tienphong.vn/
 
 
 Culture / History:
@@ -134,6 +138,8 @@ Entertainment:
 - https://tiin.vn/ (Entertainment and celebrity news)
 - https://phimmoi.net/ (Online movies)
 - https://giaitri.vn/ (General entertainment)
+- https://hoahoctro.tienphong.vn/ (Youth news and entertainment, particularly for age 7-15)
+- https://svvn.tienphong.vn/ (Youth news and entertainment, particularly for college age)
 
 
 Overseas Vietnamese:
@@ -158,6 +164,7 @@ Other:
 - https://otofun.net/
 - https://webtretho.com/
 - https://kenhsinhvien.vn/
+- https://dembuon.vn
 
 
 Informative links (in English):
@@ -198,6 +205,7 @@ Scripts:
 Thank you to these people who have helped create this document:
 - [tiendung](https://github.com/tiendung)
 - [Christopher Nguyen](https://github.com/ctn)
+- [My Chiffon Nguyen](https://mychiffonn.com)
 
 
 ## Instructions
